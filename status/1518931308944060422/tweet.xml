@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
 <tweet>
-	<created_at>2022-04-26T12:33:38.000Z</created_at>
-	<id>1518931305265655809</id>
+	<created_at>2022-04-26T12:33:39.000Z</created_at>
+	<id>1518931308944060422</id>
 	<lang>en</lang>
-	<text>I guess my disdain for politics on my Twitter feed is the same reason why human beings across cultures have devised this very common aphorism about how you should view the world:
-
-Rather than change the world, change yourself.</text>
+	<text>"The line separating good and evil passes not through states, nor between classes, nor between political parties either — but right through every human heart." — Aleksandr Solzhenitsyn</text>
 	<author>
 		<created_at>2010-11-03T00:24:41.000Z</created_at>
 		<id>211344437</id>

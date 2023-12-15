@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
+<tweet>
+	<created_at>1518931305265655809</created_at>
+	<id>1518931305265655809</id>
+	<lang>en</lang>
+	<text>I guess my disdain for politics on my Twitter feed is the same reason why human beings across cultures have devised this very common aphorism about how you should view the world:
+
+Rather than change the world, change yourself.</text>
+	<author>
+		<created_at>2010-11-03T00:24:41.000Z</created_at>
+		<id>211344437</id>
+		<name>Sal Rahman</name>
+		<username>shovnr</username>
+	</author>
+	<thread>
+		<id>1518931305265655809</id>
+		<id>1518931306268168195</id>
+		<id>1518931307186688003</id>
+		<id>1518931308063330304</id>
+		<id>1518931308944060422</id>
+		<id>1518931309883584513</id>
+	</thread>
+</tweet>
